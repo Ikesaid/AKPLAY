@@ -1,0 +1,90 @@
+#top {
+	border: solid;
+	border-color: lightblue;
+	border-size: 4px 
+
+}
+
+
+#navflex-column {
+	position: relative;
+	display: block;
+} 
+
+#navflex-column a {
+
+	position: relative;
+	display: inline-block;
+	color: #00df96;
+	
+}
+#right {
+	float: right;
+}
+
+
+.jumbotron {
+	background-image: url("../img/akflag.png");
+	object-fit: cover;
+	opacity: 0.8;
+}
+
+.jumbotron  h1, p {
+
+	color: #00df96; 
+}
+
+
+#carouselExampleSlidesOnly {
+
+	display: inline-block;
+	width:19.8%;
+	height: 200px;
+	overflow: hidden;
+	text-align: center;
+
+}
+
+
+#carouselExampleSlidesOnly  h3, #carouselExampleSlidesOnly2  h3 {
+	background-color: #e3f2fd;
+	margin: 0 0;
+	padding: 0 0; 
+
+}
+
+
+#carouselExampleSlidesOnly2 {
+
+	display: inline-block;
+	width:33.1%;
+	height: 280px;
+	overflow: hidden;
+	text-align: center;
+	margin: 0 0;
+	padding: 0 0;
+
+}
+
+div.footer {
+
+	margin: 0 0;
+	padding: 0 0;
+	
+
+
+}
+
+
+.calendar {
+	opacity: 0.4;
+	background-color: #e3f2fd:
+
+}
+
+.calendar table {
+
+	width: 100%
+}
+
+
